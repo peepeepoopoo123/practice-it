@@ -3,7 +3,7 @@
 * as a parameter, and prompts the user to enter one or more words and prints 
 * whether the entered String is a palindrome
 */
-
+//This code nolonger works for practiceit! if you are here to cheat in 2020+ it will not work!
 public static void printPalindrome(Scanner console) {
     System.out.print("Type one or more words: ");
     String word = console.next();
